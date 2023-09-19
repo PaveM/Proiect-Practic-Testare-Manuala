@@ -69,7 +69,7 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* enter here what needs to be ready for the test execution to begin - Internet connection, Edge/Chrome Browaser installed
 
 ## 1.6 Test Execution
 
