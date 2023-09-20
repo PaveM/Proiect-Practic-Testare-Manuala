@@ -19,24 +19,34 @@ Tools used: JIRA and plug-in Zephyr
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+The Test Plan is designed to describe all details of testing Sign-up and Promotii section for Notino website. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-
+Project manager - Diana Pop
+Product owner - Martin Smith
+Software developer - Aura Schiop
+QA Engineer - Pavelina Mutu
 
 #### 1.1.2 Entry criteria defined
-
+Roles needed for the project are allocated;
+Initial project risks were detected;
+Functional specifications are defined.
 
 #### 1.1.3 Exit criteria defined
+All tests have been executed.
+All resolved bugs have been re-tested and approved by the QA team.
+Technical requirements have been met.
+All development activities have been completed.
+All risks have been mitigated.
 
-#### 1.1.4 Test scope
+#### 1.1.4 Test scope  TBD
 
 * __Tests in scope:__ 
 * __Tests not in scope:__ 
 
-#### 1.1.5 Risks detected
+#### 1.1.5 Risks detected  TBD
 
 * Project risks: 
 * Product risks: 
@@ -54,7 +64,7 @@ It will be done by generating periodic reports that reflect the current status o
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
  * Enter test conditions here
 
-## 1.4 Test Design
+## 1.4 Test Design TBD
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are:
@@ -69,11 +79,16 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin - Internet connection, Edge/Chrome Browaser installed
+Testing environment is up and running: https://www.notino.ro/
+Access to the testing environment is given using credentials: Username : pexepa1211@soombo.com | Password : Tokyo311
+Using Zephyr Squad, Cycle Summary was created
+Test cases were added to the Cycle Summary
+
 
 ## 1.6 Test Execution
 
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
+* From X test cases, X are failled.
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
     *  enter here bug titles
 
@@ -82,7 +97,10 @@ The following elements are needed to be ready before the test execution phase be
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
+* A number of X test cases were planned for execution and all of them were executed
 * Test execution chart was generated, the final report shows.... -> describe the final report
+* Test execution chart was generated, the final report shows a number of X tests have failed from a total of X
+* A number of X total bugs were found, X with high priority, X with medium priority
 
 -> enter here test execution report/chart
 
