@@ -24,15 +24,15 @@ The Test Plan is designed to describe all details of testing Sign-up and Promoti
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
-Project manager - Diana Pop 
-Product owner - Martin Smith 
-Software developer - Aura Schiop 
-QA Engineer - Pavelina Mutu 
+* Project manager - Diana Pop 
+* Product owner - Martin Smith 
+* Software developer - Aura Schiop 
+* QA Engineer - Pavelina Mutu 
 
 #### 1.1.2 Entry criteria defined
-Roles needed for the project are allocated;
-Initial project risks were detected;
-Functional specifications are defined.
+* Roles needed for the project are allocated;
+* Initial project risks were detected;
+* Functional specifications are defined.
 
 #### 1.1.3 Exit criteria defined
 All tests have been executed.
