@@ -79,10 +79,10 @@ The test cases with steps can be viewed here: [test_cases.pdf]()
 
 The following elements are needed to be ready before the test execution phase begins:
 
-Testing environment is up and running: https://www.notino.ro/
-Access to the testing environment is given using credentials: Username : pexepa1211@soombo.com | Password : Tokyo311
-Using Zephyr Squad, Cycle Summary was created
-Test cases were added to the Cycle Summary
+* Testing environment is up and running: https://www.notino.ro/
+* Access to the testing environment is given using credentials: Username : pexepa1211@soombo.com | Password : Tokyo311
+* Using Zephyr Squad, Cycle Summary was created
+* Test cases were added to the Cycle Summary
 
 
 ## 1.6 Test Execution TBD
