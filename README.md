@@ -71,7 +71,8 @@ are: boundary value analysis, exploratory testing.
 
 **Test cases:** TBD
 -> enter here test cases or at least the titles
-[Test Cases](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/TestCases.doc)
+![Test Cases_1](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/f54d32a1-aab8-4bc5-b9c0-d289878a33b6)
+![Test Cases_2](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/9f9b7f46-49ee-4b9e-aab7-3fbd5578d9e9)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
