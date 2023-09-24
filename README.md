@@ -98,7 +98,6 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.7 Test Completion
 
-* Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability_23_9_2023%20(1).xlsx)
 * A number of 15 test cases were planned for execution and all of them were executed
 * Test execution chart was generated, the final report shows a number of 4 tests have failed from a total of 15
