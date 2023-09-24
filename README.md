@@ -62,7 +62,6 @@ It will be done by generating periodic reports that reflect the current status o
 ## 1.3 Test Analysis TBD
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
  ![Test Conditions](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/03040d1b-4057-4043-8070-969a894f242a)
 
 ## 1.4 Test Design
@@ -72,6 +71,7 @@ are: boundary value analysis, exploratory testing.
 
 **Test cases:** TBD
 -> enter here test cases or at least the titles
+
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
