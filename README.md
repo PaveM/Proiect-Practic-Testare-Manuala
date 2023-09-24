@@ -72,7 +72,7 @@ are: boundary value analysis, exploratory testing.
 **Test cases:** TBD
 -> enter here test cases or at least the titles
 ![Test Cases_1](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/f54d32a1-aab8-4bc5-b9c0-d289878a33b6)
-[![Test Cases_2]https://user-images.githubusercontent.com/130222538/270189820-cda34791-c426-4ff9-8f55-f83737089327.png](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/issues/3#issue-1910368218)
+![Test Cases_2](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/a93e881a-4b94-4ae0-8595-c85f8668865e)
 
 
 The test cases with steps can be viewed here: [test_cases.pdf]()
