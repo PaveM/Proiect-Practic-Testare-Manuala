@@ -46,10 +46,12 @@ All risks have been mitigated.
 * __Tests in scope:_functional testing of the features included in Sign-up and Promotii sections. 
 * __Tests not in scope:__performance testing, compatibility testing with multiple browsers, integration testing.
 
-#### 1.1.5 Risks detected TBD
+#### 1.1.5 Risks detected
 
-* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment, bussiness requirements not clear
-* Product risks: the website is not intuitive enough when a Screen Reader is used, the extension is not compatible with the website, the clients might switch to a better website when it comes to price sorting, clients that have disabilities cannot use the website properly.
+* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment, bussiness requirements not clear etc.
+* Product risks: the website is not intuitive enough when a Screen Reader is used, the extension is not compatible with the website, the clients might switch to a better website when it comes to price sorting, clients that have disabilities cannot use the website properly etc.
+* The risc analysis can be seen below:
+![risc](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/33971b9a-6721-48b7-9b86-b951cce8a60d)
 
 #### 1.1.6 Evaluating entry criteria
 
@@ -59,9 +61,9 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 It will be done by generating periodic reports that reflect the current status of the test.
 
-## 1.3 Test Analysis TBD
+## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above requirements. The following test conditions were found:
  ![Test Conditions](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/03040d1b-4057-4043-8070-969a894f242a)
 
 ## 1.4 Test Design
@@ -69,11 +71,9 @@ The testing process will be executed based on the above requirements for the Dep
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are: boundary value analysis, exploratory testing.
 
-**Test cases:** TBD
--> enter here test cases or at least the titles
+**Test cases:** 
 ![Test Cases_1](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/f54d32a1-aab8-4bc5-b9c0-d289878a33b6)
 ![Test Cases_2](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/a93e881a-4b94-4ae0-8595-c85f8668865e)
-
 
 The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/PM-10%20(4)_merged.pdf)
 
