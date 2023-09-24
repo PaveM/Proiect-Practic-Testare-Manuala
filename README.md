@@ -75,7 +75,7 @@ are: boundary value analysis, exploratory testing.
 ![Test Cases_2](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/a93e881a-4b94-4ae0-8595-c85f8668865e)
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/PM-10%20(4)_merged.pdf)
 
 ## 1.5 Test Implementation
 
@@ -87,23 +87,23 @@ The following elements are needed to be ready before the test execution phase be
 * Test cases were added to the Cycle Summary
 
 
-## 1.6 Test Execution TBD
+## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* From X test cases, X are failled.
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.csv](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/ZFJ-Cycles-09-24-2023.csv)
+* From 15 test cases, 4 have failled.
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/PM-16%20(2)_merged.pdf)
+![Bugs](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/78a1b747-2b5c-41d0-ad56-b7e51a63a26a)
 
 
-## 1.7 Test Completion TBD
+
+## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* A number of X test cases were planned for execution and all of them were executed
-* Test execution chart was generated, the final report shows.... -> describe the final report
-* Test execution chart was generated, the final report shows a number of X tests have failed from a total of X
-* A number of X total bugs were found, X with high priority, X with medium priority
+* The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/Forward%20Traceability_23_9_2023%20(1).xlsx)
+* A number of 15 test cases were planned for execution and all of them were executed
+* Test execution chart was generated, the final report shows a number of 4 tests have failed from a total of 15
+* A number of 4 total bugs were found, 3 with high priority, 1 with medium priority
 
--> enter here test execution report/chart
+![Report Dashboard](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/4a3ac970-3c9a-4dae-90e4-fec938108f06)
 
 # 2 SQL section
