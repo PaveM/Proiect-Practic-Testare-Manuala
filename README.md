@@ -63,7 +63,7 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
  * Enter test conditions here
- * https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/Test%20Conditions.png
+ * [https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/Test%20Conditions.png]
 
 ## 1.4 Test Design
 
