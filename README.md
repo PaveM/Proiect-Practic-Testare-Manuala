@@ -6,7 +6,7 @@ Application under test: [Notino](https://www.notino.ro/)
 
 API Documentation: 
 
-**The final project contains the [Testing section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#11-test-planning)
+*The final project contains the [Testing section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#11-test-planning)
 
 Tools used: JIRA and plug-in Zephyr
 
