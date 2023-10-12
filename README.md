@@ -6,7 +6,7 @@ Application under test: [Notino](https://www.notino.ro/)
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#11-test-planning) and [SQL section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
+**The final project contains the [Testing section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#11-test-planning)
 
 Tools used: JIRA and plug-in Zephyr
 
@@ -104,5 +104,3 @@ The following elements are needed to be ready before the test execution phase be
 * A number of 4 total bugs were found, 3 with high priority, 1 with medium priority
 
 ![Report Dashboard](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/4a3ac970-3c9a-4dae-90e4-fec938108f06)
-
-# 2 SQL section
