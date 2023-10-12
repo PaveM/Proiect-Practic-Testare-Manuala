@@ -4,8 +4,6 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: [Notino](https://www.notino.ro/)
 
-API Documentation: 
-
 *The final project contains the [Testing section](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/README.md#11-test-planning)
 
 Tools used: JIRA and plug-in Zephyr
