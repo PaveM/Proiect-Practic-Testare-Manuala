@@ -35,11 +35,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Functional specifications are defined.
 
 #### 1.1.3 Exit criteria defined
-All tests have been executed.
-All resolved bugs have been re-tested and approved by the QA team.
-Technical requirements have been met.
-All development activities have been completed.
-All risks have been mitigated.
+* All tests have been executed.
+* All resolved bugs have been re-tested and approved by the QA team.
+* Technical requirements have been met.
+* All development activities have been completed.
+* All risks have been mitigated.
 
 #### 1.1.4 Test scope
 
@@ -48,8 +48,16 @@ All risks have been mitigated.
 
 #### 1.1.5 Risks detected
 
-* Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment, bussiness requirements not clear etc.
-* Product risks: the website is not intuitive enough when a Screen Reader is used, the extension is not compatible with the website, the clients might switch to a better website when it comes to price sorting, clients that have disabilities cannot use the website properly etc.
+* Project risks:
+   * lack of experience of the QA team
+   * short deadline of Zephyr Squad trial
+   *  unavailability of test environment
+   *  bussiness requirements not clear etc.
+* Product risks:
+   * the website is not intuitive enough when a Screen Reader is used
+   * the extension is not compatible with the website
+   * the clients might switch to a better website when it comes to price sorting
+   * clients that have disabilities cannot use the website properly etc.
 * The risc analysis can be seen below:
 ![risc](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/assets/130222538/33971b9a-6721-48b7-9b86-b951cce8a60d)
 
