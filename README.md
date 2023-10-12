@@ -10,7 +10,7 @@ Tools used: JIRA and plug-in Zephyr
 
 # Functional specifications TBD
 
--> enter here the functional specifications created in JIRA
+[Excel file with the Stories and Tasks created in Jira](https://github.com/PaveM/Proiect-Practic-Testare-Manuala/blob/main/Jira%20Stories%20and%20tasks.xlsx)
 
 
 # 1 Testing section
